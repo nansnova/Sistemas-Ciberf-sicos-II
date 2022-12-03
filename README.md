@@ -54,8 +54,9 @@ Utilizando los componenetes modelados se introdujeron al entorno de Vuforia para
 Los resultados se pueden ver en el siguiente enlace: 
 https://drive.google.com/file/d/1TVXQTSXJNs7vJ0RBuuq5s9oS23s3zATd/view?usp=drivesdk
 <br>
-<a href="url"><img src="manufactura_inteligente/roladora_vuforia.png" align="center" height="150" width="150" ></a>
-<a href="url"><img src="manufactura_inteligente/vuforia_logo.png" align="center" height="150" width="150" ></a>
+<br>
+<a href="url"><img src="manufactura_inteligente/roladora_vuforia.png" align="center" ></a>
+<a href="url"><img src="manufactura_inteligente/vuforia_logo.png" align="center"></a>
 <br>
 La hoja de especificaciones tecnicas se encuentra dentro de la carpeta de computo_en_la_nube como *DW-Ax-509-M30-3x0*
 
