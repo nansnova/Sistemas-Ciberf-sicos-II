@@ -25,10 +25,10 @@ Para el primero proyecto se utilizó:
 <br>
 En el segundo proyecto se diseñó el siguiente circuito para el acondicionamiento de señal del sensor analogico inductivo M30 de uso industrial, de la empresa contrinex, acceder al siguiente enlace para más información:
 https://www.tme.com/mx/es/details/dwas603m30002/sensores-de-induccion-cilindricos-cc/contrinex/dw-as-603-m30-002/ <br>
-<a href="url"><img src="computo_en_la_nube/sensor_inductivo.png" align="center"></a>
-<a href="url"><img src="computo_en_la_nube/esquematico.png" align="center" height="120" width="120" ></a>
-<a href="url"><img src="computo_en_la_nube/circuito.png" align="center" height="120" width="120" ></a>
-<a href="url"><img src="computo_en_la_nube/fenolica_final.jpeg" align="center" height="120" width="120" ></a>
+<a href="url"><img src="computo_en_la_nube/sensor_inductivo.png" align="center" height="300" width="300" ></a>
+<a href="url"><img src="computo_en_la_nube/esquematico.png" align="center"></a>
+<a href="url"><img src="computo_en_la_nube/circuito.png" align="center"></a>
+<a href="url"><img src="computo_en_la_nube/fenolica_final.jpeg" align="center"></a>
 <br>
 Finalmente el gémelo digital se modelo apartir de las medidas y mecanismos de la roladora real que se encuentra en la fábrica, se utilizó el software Fusion360.
 <br>
