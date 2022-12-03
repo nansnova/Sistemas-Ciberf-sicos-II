@@ -58,23 +58,12 @@ For both microcontrollers, Mega and NodeMCU, is important the use of the followi
 **Note:** *Make sure to have the libraries in the correct libraries path in order to make it work and prevent errors.*
 
 ### Qué códigos usar
-Para el microcontrolador conectado al prototipo del primer proyecto ir a la carpeta **computo_cognitivo**, usar el codigo **servo_180.ino**.
-Para la implementación del dashboard en Home Assistant usar:
-- **ArduinoMega2560_OneServo** if you will only use 1 continuous servomotor
-- **ArduinoMega2560_TwoServo** if you will use both servomotors
+- Para el microcontrolador conectado al prototipo del primer proyecto ir a la carpeta **computo_cognitivo**, usar el codigo **servo_180.ino**.
+- **socket_client.py** en raspberry pi con la cámara y OpenCV previamente configurados. Revisar la dirección IP y puertos para establecer la conexión.
+- **socket_server.py** en la computadora en la que se crea el servidor, utilizar la IP de este dispositivo y crear una carpeta test para guardar la imágen. 
+- Las modificaciones a la arquitectura de la red se deben hacer en el entrenamiento del archivo **RED NEURONAL PARA LA DETECCIÓN DE DADOS DAÑADOS.ipynb**
+- Y una vez que se tiene todo lo demás activo, utilizar **classify.py** de la carpeta testing en computo_cognitivo.
+- Para la implementación del dashboard en Home Assistant usar **dashboard_home_assistant.yaml** y seguir el manual **manual_home_assistant.pdf** de la carpeta computo_cognitivo para la creación de helpers y automatizaciones para la configuración del ambiente.
 
-## Esquematicos
-In the following pictures, it's visible how the connections were made.
-
-Using 2 servomotors:
-
-<a href="url"><img src="Figures/esquema2motores.jpg" align="center" height="700" width="840" ></a>
-
-Using 1 servomotor:
-
-<a href="url"><img src="Figures/esquema1motor.jpg" align="center" height="700" width="840" ></a>
-
-## Arduino IoT Cloud Connection
-For the reference on how to connect the NodeMCU to the IoT Cloud, please refer to the following tutorial from Arduino: https://docs.arduino.cc/cloud/iot-cloud/tutorials/esp-32-cloud
-
-**Note**: *Make sure to **NOT** modify the name generated in the paltform for the device, until this day (01/12/2021) changing the name generates error connections.*
+## Referencias
+Para más referencias sobre el funcionamiento de vuforia y Home Assistante, por favor siga los tutoriales descritos en el manual **Reporte Final** de la página de inicio del repositorio
