@@ -18,10 +18,10 @@ Para el primero proyecto se utilizó:
 - Como actuador un servo motor con tope de 180.
 - Un sistema de biela manivela cortada en mdf y otras partes impresas en 3D. 
 - Cámara Raspberry Pi para la parte de visión computacional.
-
+<br>
 <a href="url"><img src="computo_cognitivo/prototipo.png" align="center" height="300" width="300" ></a>
-<a href="url"><img src="computo_cognitivo/prototipo_digital.png" align="center" height="120" width="120" ></a>
-<a href="url"><img src="computo_cognitivo/prototipo_digital_2.png" align="center" height="120" width="120" ></a>
+<a href="url"><img src="computo_cognitivo/prototipo_digital.png" align="center" height="300" width="300" ></a>
+<a href="url"><img src="computo_cognitivo/prototipo_digital_2.png" align="center" height="300" width="300" ></a>
 <br>
 En el segundo proyecto se diseñó el siguiente circuito para el acondicionamiento de señal<br>
 <a href="url"><img src="computo_en_la_nube/esquematico.png" align="center" height="120" width="120" ></a>
