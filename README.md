@@ -19,7 +19,7 @@ Para el primero proyecto se utilizó:
 - Un sistema de biela manivela cortada en mdf y otras partes impresas en 3D. 
 - Cámara Raspberry Pi para la parte de visión computacional.
 <br>
-<a href="url"><img src="computo_cognitivo/prototipo.png" align="center" height="300" width="300" ></a>
+<a href="url"><img src="computo_cognitivo/prototipo.png" align="center"></a>
 <a href="url"><img src="computo_cognitivo/prototipo_digital.png" align="center" height="300" width="300" ></a>
 <a href="url"><img src="computo_cognitivo/prototipo_digital_2.png" align="center" height="300" width="300" ></a>
 <br>
