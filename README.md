@@ -13,7 +13,7 @@ Este repositorio contiene el código fuente, los esquemáticos de conexión, los
 - Finalmente utilizando las medidas reales de la roladora se modeló un gemelo digital utilizado en una propuesta de realidad virtual y otra de realidad aumentada.
 
 ## Hardware utilizado
-Para el primero proyecto se utilizó:
+Para el primer proyecto se utilizó:
 - Como microcontrolador un arduino uno.
 - Como actuador un servo motor con tope de 180.
 - Un sistema de biela manivela cortada en mdf y otras partes impresas en 3D. 
