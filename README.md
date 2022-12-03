@@ -23,15 +23,26 @@ Para el primero proyecto se utilizó:
 <a href="url"><img src="computo_cognitivo/prototipo_digital.png" align="center" height="300" width="300" ></a>
 <a href="url"><img src="computo_cognitivo/prototipo_digital_2.png" align="center" height="300" width="300" ></a>
 <br>
-En el segundo proyecto se diseñó el siguiente circuito para el acondicionamiento de señal del sensor analogico inductivo M30 de uso industrial, de la empresa contrinex<br>
+En el segundo proyecto se diseñó el siguiente circuito para el acondicionamiento de señal del sensor analogico inductivo M30 de uso industrial, de la empresa contrinex, acceder al siguiente enlace para más información:
+https://www.tme.com/mx/es/details/dwas603m30002/sensores-de-induccion-cilindricos-cc/contrinex/dw-as-603-m30-002/ <br>
 <a href="url"><img src="computo_en_la_nube/sensor_inductivo.png" align="center"></a>
 <a href="url"><img src="computo_en_la_nube/esquematico.png" align="center" height="120" width="120" ></a>
 <a href="url"><img src="computo_en_la_nube/circuito.png" align="center" height="120" width="120" ></a>
 <a href="url"><img src="computo_en_la_nube/fenolica_final.jpeg" align="center" height="120" width="120" ></a>
 <br>
-Utilizando el siguiente sensor:
+Finalmente el gémelo digital se modelo apartir de las medidas y mecanismos de la roladora real que se encuentra en la fábrica, se utilizó el software Fusion360.
 <br>
-<a href="url"><img src="computo_en_la_nube/sensor_indictivo.png" align="center" height="120" width="120" ></a>
+<a href="url"><img src="manufactura_inteligente/roladora_real.png" align="center"></a>
+<a href="url"><img src="manufactura_inteligente/roladora_digital.png" align="center"></a>
+<a href="url"><img src="computo_en_la_nube/fusion360.png" align="center" height="120" width="120" ></a>
+En el siguiente enlace se puede visualizar el resultado final de los render generados en fusion 360:
+https://www.youtube.com/watch?v=eVM0RRYKtTc
+<br>
+Utilizando los componenetes modelados se introdujeron al entorno de Vuforia para desarrollar una experiencia de Realidad Aumentada (AR) que permite, a través de una aplicación de celular escanear el área y desplegar las piezas modeladas en fusion360, finalmente fue posible simular los mecanismos escribiendo el código de movimiento en javascript.
+<br>
+Los resultados se pueden ver en el siguiente enlace: 
+https://drive.google.com/file/d/1TVXQTSXJNs7vJ0RBuuq5s9oS23s3zATd/view?usp=drivesdk
+
 La hoja de especificaciones tecnicas se encuentra dentro de la carpeta de computo_en_la_nube como 
 
 ### Libraries
