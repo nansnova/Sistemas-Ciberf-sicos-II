@@ -44,6 +44,7 @@ Finalmente el gémelo digital se modelo apartir de las medidas y mecanismos de l
 En el siguiente enlace se puede visualizar el resultado final de los render generados en fusion 360:
 https://www.youtube.com/watch?v=eVM0RRYKtTc
 <br>
+<br>
 Utilizando los componenetes modelados se introdujeron al entorno de Vuforia para desarrollar una experiencia de Realidad Aumentada (AR) que permite, a través de una aplicación de celular escanear el área y desplegar las piezas modeladas en fusion360, finalmente fue posible simular los mecanismos escribiendo el código de movimiento en javascript.
 <br>
 Los resultados se pueden ver en el siguiente enlace: 
