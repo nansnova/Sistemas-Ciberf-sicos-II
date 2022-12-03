@@ -1,0 +1,49 @@
+esphome:
+  name: led
+esp32:
+  board: esp32dev
+  framework:
+    type: arduino
+# Enable logging
+logger:
+# Enable Home Assistant API
+api:
+# encryption:
+# key: "nseZsQ7nK6+BuV54x0ZDs01tM80L1xAcQwJAQj5KZso="
+ota:
+  password: "6f3c156ebb43db6b6899ef3ba0c9bad9"
+wifi:
+  ssid: "TP-Link_89CA"
+  password: "47626096"
+ # Enable fallback hotspot (captive portal) in case wifi connection fails
+  ap:
+    ssid: "Ledp Fallback Hotspot"
+    password: "47626096"
+captive_portal:
+
+sensor:
+  - platform: adc
+    id: Pulse
+    pin: 34
+    name: "Pulse"
+    update_interval: 0.5s
+    attenuation: auto
+
+    
+# Config. LCD
+i2c:
+  sda: 21
+  scl: 22
+# LCD 16x2, i2c:PCF8574T. Si es una de 18x4, Address: 0x3F
+display:
+  - platform: lcd_pcf8574
+    dimensions: 16x2    
+    address: 0x27
+    lambda: |-
+      it.printf("%s", id(pulse_counter).state.c_str());
+text_sensor:
+  - platform: homeassistant
+    id: pulse_counter
+    name: pc
+    entity_id: counter.pulse_counter
+    internal: true
