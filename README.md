@@ -23,7 +23,8 @@ Para el primero proyecto se utilizó:
 <a href="url"><img src="computo_cognitivo/prototipo_digital.png" align="center" height="300" width="300" ></a>
 <a href="url"><img src="computo_cognitivo/prototipo_digital_2.png" align="center" height="300" width="300" ></a>
 <br>
-En el segundo proyecto se diseñó el siguiente circuito para el acondicionamiento de señal<br>
+En el segundo proyecto se diseñó el siguiente circuito para el acondicionamiento de señal del sensor analogico inductivo M30 de uso industrial, de la empresa contrinex<br>
+<a href="url"><img src="computo_en_la_nube/sensor_inductivo.png" align="center"></a>
 <a href="url"><img src="computo_en_la_nube/esquematico.png" align="center" height="120" width="120" ></a>
 <a href="url"><img src="computo_en_la_nube/circuito.png" align="center" height="120" width="120" ></a>
 <a href="url"><img src="computo_en_la_nube/fenolica_final.jpeg" align="center" height="120" width="120" ></a>
