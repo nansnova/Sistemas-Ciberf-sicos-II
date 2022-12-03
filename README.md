@@ -38,6 +38,7 @@ https://www.tme.com/mx/es/details/dwas603m30002/sensores-de-induccion-cilindrico
 <br>
 Finalmente el gémelo digital se modelo apartir de las medidas y mecanismos de la roladora real que se encuentra en la fábrica, se utilizó el software Fusion360.
 <br>
+<br>
 <a href="url"><img src="manufactura_inteligente/roladora_real.png.jpg" align="center" height="300" width="300" ></a>
 <a href="url"><img src="manufactura_inteligente/roladora_digital.png" align="center"  height="300" width="300" ></a>
 <a href="url"><img src="manufactura_inteligente/fusion360.png" align="center" height="120" width="120" ></a>
