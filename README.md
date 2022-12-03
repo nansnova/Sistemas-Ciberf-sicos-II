@@ -42,7 +42,7 @@ Finalmente el gémelo digital se modelo apartir de las medidas y mecanismos de l
 <br>
 <a href="url"><img src="manufactura_inteligente/roladora_real.png.jpg" align="center" height="300" width="300" ></a>
 <a href="url"><img src="manufactura_inteligente/roladora_digital.png" align="center"  height="300" width="300" ></a>
-<a href="url"><img src="manufactura_inteligente/fusion360.png" align="center" height="120" width="120" ></a>
+<a href="url"><img src="manufactura_inteligente/fusion360.png" align="center" height="150" width="150" ></a>
 <br>
 <br>
 En el siguiente enlace se puede visualizar el resultado final de los render generados en fusion 360:
@@ -53,7 +53,10 @@ Utilizando los componenetes modelados se introdujeron al entorno de Vuforia para
 <br>
 Los resultados se pueden ver en el siguiente enlace: 
 https://drive.google.com/file/d/1TVXQTSXJNs7vJ0RBuuq5s9oS23s3zATd/view?usp=drivesdk
-
+<br>
+<a href="url"><img src="manufactura_inteligente/roladora_vuforia.png" align="center" height="150" width="150" ></a>
+<a href="url"><img src="manufactura_inteligente/vuforia_logo.png" align="center" height="150" width="150" ></a>
+<br>
 La hoja de especificaciones tecnicas se encuentra dentro de la carpeta de computo_en_la_nube como *DW-Ax-509-M30-3x0*
 
 ### Qué códigos usar
