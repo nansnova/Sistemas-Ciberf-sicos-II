@@ -30,11 +30,14 @@ https://www.tme.com/mx/es/details/dwas603m30002/sensores-de-induccion-cilindrico
 <a href="url"><img src="computo_en_la_nube/circuito.png" align="center"></a>
 <a href="url"><img src="computo_en_la_nube/fenolica_final.jpeg" align="center" height="300" width="300" ></a>
 <br>
+<br>
 Finalmente el gémelo digital se modelo apartir de las medidas y mecanismos de la roladora real que se encuentra en la fábrica, se utilizó el software Fusion360.
 <br>
 <a href="url"><img src="manufactura_inteligente/roladora_real.png" align="center"></a>
 <a href="url"><img src="manufactura_inteligente/roladora_digital.png" align="center"></a>
 <a href="url"><img src="computo_en_la_nube/fusion360.png" align="center" height="120" width="120" ></a>
+<br>
+<br>
 En el siguiente enlace se puede visualizar el resultado final de los render generados en fusion 360:
 https://www.youtube.com/watch?v=eVM0RRYKtTc
 <br>
