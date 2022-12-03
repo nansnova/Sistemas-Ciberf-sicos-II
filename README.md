@@ -12,15 +12,16 @@ Este repositorio contiene el código fuente, los esquemáticos de conexión, los
 - En la maquina forjadora se implementó un sistema de cómputo en la nube que incluye una interfaz en línea de un contador de los tornillos producidos y una alarma de detección de atasco.
 - Finalmente utilizando las medidas reales de la roladora se modeló un gemelo digital utilizado en una propuesta de realidad virtual y otra de realidad aumentada.
 
-## Hardware usado
+## Hardware utilizado
 Para el primero proyecto se utilizó:
 - Como microcontrolador un arduino uno.
 - Como actuador un servo motor con tope de 180.
 - Un sistema de biela manivela cortada en mdf y otras partes impresas en 3D. 
 - Cámara Raspberry Pi para la parte de visión computacional.
 
-<a href="url"><img src="computo_cognitivo/prototipo.png" align="center" height="120" width="120" ></a>
+<a href="url"><img src="computo_cognitivo/prototipo.png" align="center" height="300" width="300" ></a>
 <a href="url"><img src="computo_cognitivo/prototipo_digital.png" align="center" height="120" width="120" ></a>
+<a href="url"><img src="computo_cognitivo/prototipo_digital_2.png" align="center" height="120" width="120" ></a>
 <br>
 En el segundo proyecto se diseñó el siguiente circuito para el acondicionamiento de señal<br>
 <a href="url"><img src="computo_en_la_nube/esquematico.png" align="center" height="120" width="120" ></a>
